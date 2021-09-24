@@ -17,3 +17,4 @@ Small random values in the range [-1, 1]
 Loss is nothing but a prediction error of Neural Net and the method to calculate the loss is called Loss Function. In simple words, the Loss is used to calculate the gradients and the gradients are used to update the weights of the Neural Net.
 
 **What is the "chain rule" in gradient flow?**
+The chain rule is used when we need the derivative of an expression composed of nested subexpressions. In order to calculate the total gradient, we need to calculate the gradient of the insider gradient. Chain rules are defined in terms of nested functions, like y=f(g(x)) for a single variable chain rule.
