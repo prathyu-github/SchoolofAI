@@ -1,1 +1,6 @@
 ![Image-LR-0.1](https://github.com/prathyu-github/SchoolofAI---Assignments/blob/main/session_2/A2-LR-0.1.JPG)
+![Image-LR-0.2](https://github.com/prathyu-github/SchoolofAI---Assignments/blob/main/session_2/A2-LR-0.1.JPG)
+![Image-LR-0.5](https://github.com/prathyu-github/SchoolofAI---Assignments/blob/main/session_2/A2-LR-0.1.JPG)
+![Image-LR-0.8](https://github.com/prathyu-github/SchoolofAI---Assignments/blob/main/session_2/A2-LR-0.1.JPG)
+![Image-LR-1](https://github.com/prathyu-github/SchoolofAI---Assignments/blob/main/session_2/A2-LR-0.1.JPG)
+![Image-LR-2](https://github.com/prathyu-github/SchoolofAI---Assignments/blob/main/session_2/A2-LR-0.1.JPG)
