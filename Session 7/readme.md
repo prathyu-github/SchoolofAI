@@ -3,7 +3,7 @@ Group Members: Nishad, Dinesh, Soma, Bharath
 # Evaluation Metrics
 
 ## 1. Precision, Recall and F1 Score
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Fpost%2FHow_can_two_neural_networks_be_compared_for_regression_based_on_training_and_testing_results&psig=AOvVaw2tcojzMw86hKcR55ypgJqn&ust=1639229741997000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCH_e2s2fQCFQAAAAAdAAAAABAJ" width="400">
+<img src="downloads/precision-recall.jpeg" width="400">
 
 * Calculated on tweets dataset
 * Confusion Matrix -
