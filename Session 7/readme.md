@@ -3,8 +3,8 @@ Group Members: Nishad, Dinesh, Soma, Bharath
 # Evaluation Metrics
 
 ## 1. Precision, Recall and F1 Score
-<img src="./static/precision_recall_f1.png" width="400">
-
+<img src="https://medium.com/@raghaviadoni/evaluation-metrics-i-precision-recall-and-f1-score-3ec25e9fb5d3" width="400">
+<img src="https://medium.com/@raghaviadoni/evaluation-metrics-i-precision-recall-and-f1-score-3ec25e9fb5d3" width="400">
 * Calculated on tweets dataset
 * Confusion Matrix -
 <img src="./static/confusion_matrix.png" width="300">
