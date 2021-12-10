@@ -2,7 +2,7 @@
 # Evaluation Metrics
 
 ## 1. Precision, Recall and F1 Score
-<img src="F:\MVGR\precision-recall.jpeg" width="400">
+![Img1](https://github.com/prathyu-github/SchoolofAI---Assignments/blob/main/Session%207/precision-recall.jpeg)
 
 * Calculated on tweets dataset
 * Confusion Matrix -
