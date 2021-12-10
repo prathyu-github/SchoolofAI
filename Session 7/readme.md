@@ -3,10 +3,10 @@
 
 ## 1. Precision, Recall and F1 Score
 ![Img1](https://github.com/prathyu-github/SchoolofAI---Assignments/blob/main/Session%207/precision-recall.jpeg)
-
+![Img2](https://github.com/prathyu-github/SchoolofAI---Assignments/blob/main/Session%207/f1score.png)
 * Calculated on tweets dataset
 * Confusion Matrix -
-<img src="./static/confusion_matrix.png" width="300">
+![Img3](https://github.com/prathyu-github/SchoolofAI---Assignments/blob/main/Session%207/confusion_matrix.png)
 
 * Precision, Recall and F1 Score -
 ```
@@ -75,8 +75,7 @@ BLEU Score: 18.90
 
 In general, perplexity is a measurement of how well a probability model predicts a sample. In the context of Natural Language Processing, perplexity is one way to evaluate language models.
 
-<img width="600" alt="image" src="./static/perplexity.png">
-
+![Img4](https://github.com/prathyu-github/SchoolofAI---Assignments/blob/main/Session%207/perplexity.png)
 Less entropy (or less disordered system) is favorable over more entropy. Because predictable results are preferred over randomness. This is why people say low perplexity is good and high perplexity is bad since the perplexity is the exponentiation of the entropy (and you can safely think of the concept of perplexity as entropy).
 
 ```python
